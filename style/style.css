@@ -1,0 +1,31 @@
+input {
+    width: 80%;
+    padding-left: 10px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+h3 {
+    margin-top: 50px !important; 
+}
+h6 {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
+a {
+    margin-top: 25px !important;
+    margin-right: 50px !important;
+    margin-bottom: 25px !important;
+    display: inline-block
+}
+
+label {
+    font-size: 14px;
+    font-weight: bolder;
+}
+button[type='submit'] {
+    margin-right: 25px;
+}
